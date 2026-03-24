@@ -46,7 +46,7 @@ def importxml(conn, url):
     INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('firstname', 'Kabouter', entity_id, 16, 0, 0)
     INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('lastname', 'Wesley', entity_id, 16, 0, 0)
     INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('name', 'Kabouter Wesley', entity_id, 144, 0, 0)
-    INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('work', '0631685559', entity_id, 1289, 0, 0)
+    INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('work', '0612345678', entity_id, 1289, 0, 0)
     INSERT INTO Field (name, value, entity_id, type, is_default, is_readonly) VALUES ('avatar', '', entity_id, 192, 0, 0)
     """
 
